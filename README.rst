@@ -16,36 +16,29 @@ Proposing a talk
  Logo
 ----
 
-1. Amsterdam flag with normal python logo.
-
-.. image:: resources/images/pyAmsterdam.svg
-   :alt: Logo normal python
+.. |logo1| image:: resources/images/pyAmsterdam.svg
+   :scale: 100%
+   :align: middle
+.. |logo2| image:: resources/images/pyAmsterdam-45.svg
+   :scale: 50%
+   :align: top
+.. |logo3| image:: resources/images/pyAmsterdam-45R.svg
+   :scale: 100%
+   :align: middle
+.. |logo4| image:: resources/images/pyAmsterdam-1.svg
+   :scale: 50%
+   :align: top
+.. |logo5| image:: resources/images/pyAmsterdam-1-45L.svg
+   :scale: 100%
+   :align: middle
+.. |logo6| image:: resources/images/pyAmsterdam-1-45R.svg
+   :scale: 50%
+   :align: top
    
-   
-2. Amsterdam flag with python logo rotated 45 degrees.
-
-.. image:: resources/images/pyAmsterdam-45.svg
-   :alt: Logo normal 45 python
-   
-   
-3. Amsterdam flag with python logo rotated 45 degrees.
-
-.. image:: resources/images/pyAmsterdam-45R.svg
-   :alt: Logo normal 45 python
-   
-4. Amsterdam flag with normal python logo only 1 cross changed.
-
-.. image:: resources/images/pyAmsterdam-1.svg
-   :alt: Logo normal python
-   
-   
-5. Amsterdam flag with normal python logo only 1 cross changed and rotated 45 degrees.
-
-.. image:: resources/images/pyAmsterdam-1-45R.svg
-   :alt: Logo normal 45 python
-
-   
-6. Amsterdam flag with normal python logo only 1 cross changed and rotated 45 degrees.
-
-.. image:: resources/images/pyAmsterdam-1-45L.svg
-   :alt: Logo normal 45 python
++-----------+-----------+
+| 1 |logo1| | 4 |logo4| |
++-----------+-----------+
+| 2 |logo2| | 5 |logo5| |
++-----------+-----------+
+| 3 |logo3| | 6 |logo6| |
++-----------+-----------+
