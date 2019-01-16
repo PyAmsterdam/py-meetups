@@ -13,7 +13,7 @@ Proposing a talk
 * Create a pull request
 
  
- Logo
+Logo
 ----
 
 .. |logo1| image:: resources/images/pyAmsterdam.svg
