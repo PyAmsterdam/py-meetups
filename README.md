@@ -1,8 +1,12 @@
 # py-meetups
 Repository to help us manage meetups of Pyamsterdam https://www.meetup.com/PyAmsterdam/
 
-# Proposing a talk
+# Have a talk idea?
+ * describe your talk in `talk-title.md`
+ * create a pull request placing your file in `talk-ideas/`
+
+# Proposing a talk for an event
  * Choose an event from the `events` directory.
- * Describe your talk in `talk-proposalN.md`. 
- * Commit description to a new branch
- * Create a pull request
+ * Create a pull request moving the talk abstract from `talk-ideas/` 
+   to the event directory
+ * Please wait for some votes
