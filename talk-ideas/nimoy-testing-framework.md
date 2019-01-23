@@ -1,6 +1,8 @@
 We need a better testing framework
 ==================================
 
+by [Noam Tenne](https://github.com/noamt)
+
 Abstract
 --------
 
