@@ -19,5 +19,4 @@ they treat them as sacred, unalterable, invariable, permanent things. Although t
 you can interpret them in many different ways, or you can just use some parts of a pattern,
 skipping all the dogma surrounding them. 
 
-The aim for this talk is to give an overview of some patterns that can be used in pragmatic, practical way with examples using python 
-- and without all the glorified language around them.
+The aim for this talk is to give an overview of some patterns that can be used in pragmatic, practical way with examples using python - and without all the glorified language around them.
