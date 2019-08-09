@@ -2,13 +2,28 @@
 range(4) - fourth meetup at PicNic
 ==================================
 
+<RSVP will be available soon>
+
 We are happy to announce the `fourth instance`_ of the PyAmsterdam meetup.
 This event will be kindly hosted by `PicNic`_,
 make sure to check out their meetup group for other events. https://www.meetup.com/Meetinup-Picnic/
 
 
-Schedule
-=========
+We are currently looking for talks and speakers.
+Preferred topics are: testing, async, serverless, gui, data visualisation.
+To submit a talk you can:
+Create PullRequest at: https://github.com/PyAmsterdam/py-meetups
+Contact us via meetup.com
+
+In case you would like to share something cool but do, we will aslo give space for
+but do not feel like a giving a longer talk, there is also an option for a lightning talk (5 minutes max).
+
+
+
+.. will be published later
+
+Schedule (preview)
+==================
 
 Thursday, 19 September 2019
 
