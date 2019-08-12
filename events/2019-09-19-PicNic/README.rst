@@ -29,13 +29,15 @@ Thursday, 19 September 2019
 
 19:00 - 19:30 - `Talk 1`_ by PicNic
 
-19:30 - 19:40 - Short break
+19:30 - 19:35 - Short break
 
-19:40 - 20:10 - `Talk 2`_
+19:35 - 20:05 - `Talk 2`_ - Detecting Outages at Scale (Sander van de Graaf)
 
-20:10 - 20:40 - `Talk 3`_
+19:30 - 19:35 - Short break
 
-20:40 - 21:00 - Networking
+20:05 - 20:35 - `Talk 3`_
+
+20:35 - 21:00 - Networking
 
 21:00 - closing time
 
@@ -45,5 +47,5 @@ Thursday, 19 September 2019
 .. _PicNic: https://picnic.app
 
 .. _Talk 1: TBD
-.. _Talk 2: TBD
+.. _Talk 2: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/detecting-autages-at-scale-downdetector.rst
 .. _Talk 3: TBD
