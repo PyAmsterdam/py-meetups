@@ -35,11 +35,20 @@ Thursday, 19 September 2019
 
 19:30 - 19:35 - Short break
 
-20:05 - 20:35 - `Talk 3`_
+20:05 - 20:35 - `Talk 3`_ - Getting started with FPGA with Python (Olga Sentemova)
 
 20:35 - 21:00 - Networking
 
 21:00 - closing time
+
+
+Detecting Outages at Scale
+--------------------------
+Sometimes the internet is having a bad day, and Facebook, Instagram or Whatsapp doesn't work. You and countless of other people rush to downdetector.com to check if that's really the case. Here's our story about the last Facebook outage, and how we made our service scale.
+
+Getting started with FPGA with Python
+-------------------------------------
+FPGA is becoming more and more popular in many fields such as IOT, video processing. It also used to make computations for machine learning and trading technologies more effective. Unfortunately for newbies to this technology, it is quite complicated and usually requires using specific languages: Verilog and/or VHDL. But with frameworks such as myVDL and PYNQ Python developers also can explore these opportunities. We'll look into FPGA technology, touch what it is and where and how it's used. Also, where can Python developers start and what they can achieve.
 
 .. Links
 
@@ -48,4 +57,4 @@ Thursday, 19 September 2019
 
 .. _Talk 1: TBD
 .. _Talk 2: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/detecting-autages-at-scale-downdetector.rst
-.. _Talk 3: TBD
+.. _Talk 3: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/python-fpga.md
