@@ -1,11 +1,11 @@
 ==================================
-range(4) - fourth meetup at PicNic
+range(4) - fourth meetup at Picnic
 ==================================
 
 <RSVP will be available soon>
 
 We are happy to announce the `fourth instance`_ of the PyAmsterdam meetup.
-This event will be kindly hosted by `PicNic`_,
+This event will be kindly hosted by `Picnic`_,
 make sure to check out their meetup group for other events. https://www.meetup.com/Meetinup-Picnic/
 
 
@@ -53,7 +53,7 @@ FPGA is becoming more and more popular in many fields such as IOT, video process
 .. Links
 
 .. _fourth instance: https://www.meetup.com/PyAmsterdam/events/263449620/
-.. _PicNic: https://picnic.app
+.. _Picnic: https://picnic.app
 
 .. _Talk 1: TBD
 .. _Talk 2: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/detecting-autages-at-scale-downdetector.rst
