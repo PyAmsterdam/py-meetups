@@ -23,11 +23,11 @@ but do not feel like a giving a longer talk, there is also an option for a light
 Schedule (preview)
 ==================
 
-Thursday, 19 September 2019
+Thursday, 26 September 2019
 
 18:00 - 19:00 - Welcome with drinks and food
 
-19:00 - 19:30 - `Talk 1`_ by PicNic
+19:00 - 19:30 - `Talk 1`_ by Picnic
 
 19:30 - 19:35 - Short break
 
