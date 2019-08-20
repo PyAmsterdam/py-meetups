@@ -27,7 +27,7 @@ Thursday, 26 September 2019
 
 18:00 - 19:00 - Welcome with drinks and food
 
-19:00 - 19:30 - `Talk 1`_ by Picnic
+19:00 - 19:30 - `Talk 1`_ - TIP (Dinis Louseiro)
 
 19:30 - 19:35 - Short break
 
@@ -41,6 +41,11 @@ Thursday, 26 September 2019
 
 21:00 - closing time
 
+TIP
+---
+Abstract to follow
+
+Bio: Dinis Louseiro is a Data Engineer at Picnic. He holds a bachelor's degree in Computer Science and Business Management, and worked as a Data Engineering consultant for five years, before joining the team at Picnic Technology. He is enthusiastic about building and optimizing data pipelines while exploring new approaches to handle and model data to  enable the fast-pace business of Picnic.
 
 Detecting Outages at Scale
 --------------------------
@@ -53,7 +58,7 @@ FPGA is becoming more and more popular in many fields such as IOT, video process
 .. Links
 
 .. _fourth instance: https://www.meetup.com/PyAmsterdam/events/263449620/
-.. _Picnic: https://picnic.app
+.. _Picnic: https://join.picnic.app
 
 .. _Talk 1: TBD
 .. _Talk 2: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/detecting-autages-at-scale-downdetector.rst
