@@ -43,7 +43,6 @@ Thursday, 26 September 2019
 
 TIP
 ---
-Abstract to follow
 
 Bio: Dinis Louseiro is a Data Engineer at Picnic. He holds a bachelor's degree in Computer Science and Business Management, and worked as a Data Engineering consultant for five years, before joining the team at Picnic Technology. He is enthusiastic about building and optimizing data pipelines while exploring new approaches to handle and model data to  enable the fast-pace business of Picnic.
 
@@ -60,6 +59,6 @@ FPGA is becoming more and more popular in many fields such as IOT, video process
 .. _fourth instance: https://www.meetup.com/PyAmsterdam/events/263449620/
 .. _Picnic: https://join.picnic.app
 
-.. _Talk 1: TBD
+.. _Talk 1: https://github.com/PyAmsterdam/py-meetups/edit/master/talks/dinis-louseiro.rst
 .. _Talk 2: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/detecting-autages-at-scale-downdetector.rst
 .. _Talk 3: https://github.com/PyAmsterdam/py-meetups/blob/master/talks/python-fpga.md
