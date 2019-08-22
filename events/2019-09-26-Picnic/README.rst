@@ -2,6 +2,9 @@
 range(4) - fourth meetup at Picnic
 ==================================
 
+.. image:: /resources/images/pyamsterdam_picnic.png
+
+
 <RSVP will be available soon>
 
 We are happy to announce the `fourth instance`_ of the PyAmsterdam meetup.
@@ -20,8 +23,8 @@ but do not feel like a giving a longer talk, there is also an option for a light
 
 .. will be published later
 
-Schedule (preview)
-==================
+Schedule 
+=========
 
 Thursday, 26 September 2019
 
