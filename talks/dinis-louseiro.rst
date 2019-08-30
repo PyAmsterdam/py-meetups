@@ -1,4 +1,4 @@
-TIP
+Data Warehouse Automation in Python
 ===
 
 by `Dinis Louseiro <dlouseiro>`_
