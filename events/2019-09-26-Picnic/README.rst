@@ -30,7 +30,7 @@ Thursday, 26 September 2019
 
 18:00 - 19:00 - Welcome with drinks and food
 
-19:00 - 19:30 - `Talk 1`_ - TIP (Dinis Louseiro)
+19:00 - 19:30 - `Talk 1`_ - Data Warehouse Automation in Python (Dinis Louseiro)
 
 19:30 - 19:35 - Short break
 
