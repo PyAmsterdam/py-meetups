@@ -30,7 +30,7 @@ Thursday, 26 September 2019
 
 18:00 - 19:00 - Welcome with drinks and food
 
-19:00 - 19:30 - `Talk 1`_ - TIP (Dinis Louseiro)
+19:00 - 19:30 - `Talk 1`_ - Data Warehouse Automation in Python (Dinis Louseiro)
 
 19:30 - 19:35 - Short break
 
@@ -44,10 +44,9 @@ Thursday, 26 September 2019
 
 21:00 - closing time
 
-TIP
+Data Warehouse Automation in Python
 ---
-
-Bio: Dinis Louseiro is a Data Engineer at Picnic. He holds a bachelor's degree in Computer Science and Business Management, and worked as a Data Engineering consultant for five years, before joining the team at Picnic Technology. He is enthusiastic about building and optimizing data pipelines while exploring new approaches to handle and model data to  enable the fast-pace business of Picnic.
+At Picnic, decisions are always backed by data. Coming from a variety of systems, this data is then crunched with the help of Python and SQL. During this talk, we will walk you through our journey of building the ultimate source of truth, the Data Warehouse. We will also show you how Python has helped us create a Data Vault capture framework, and how we applied strong Software Engineering principles to ensure our pipelines are always robust and maintainable.
 
 Detecting Outages at Scale
 --------------------------
