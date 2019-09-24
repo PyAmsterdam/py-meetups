@@ -45,7 +45,8 @@ Thursday, 26 September 2019
 21:00 - closing time
 
 Data Warehouse Automation in Python
----
+------------------------------------
+
 At Picnic, decisions are always backed by data. Coming from a variety of systems, this data is then crunched with the help of Python and SQL. During this talk, we will walk you through our journey of building the ultimate source of truth, the Data Warehouse. We will also show you how Python has helped us create a Data Vault capture framework, and how we applied strong Software Engineering principles to ensure our pipelines are always robust and maintainable.
 
 Detecting Outages at Scale
