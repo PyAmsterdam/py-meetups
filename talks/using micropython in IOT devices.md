@@ -1,5 +1,5 @@
-Using micropython in IOT applications
-=====================================
+Using micropython in IOT devices
+================================
 
 by [Marc Wagner](https://github.com/marcwagner)
 
