@@ -1,7 +1,7 @@
 Using micropython in IOT applications
 =====================================
 
-by 'Marc Wagner <https://github.com/marcwagner>'_
+by [Marc Wagner](https://github.com/marcwagner)
 
 Marc Wagner is a passionate maker and amateur python developer. While attempting to create a sunrise alarm clock he stumbled uppon micropython and hasn't looked back since. Now he has at least 10 lights and sensors in his home running off an esp8266 and micropython and that collection is nly growing.
 
