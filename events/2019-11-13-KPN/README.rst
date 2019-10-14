@@ -5,8 +5,6 @@ range(5) - fifth meetup at KPN
 .. image:: /resources/images/pyamsterdam_kpn.png
 
 
-<RSVP will be available soon>
-
 We are happy to announce the `fifth instance`_ of the PyAmsterdam meetup.
 This event will be kindly hosted by `KPN`_,
 
@@ -31,9 +29,10 @@ Schedule
 Wednesday, 13 November 2019
 
 18:00 - 19:00 - Welcome with drinks and food
-
-.. scheduled will be updated with the talks on November 1.
-
+19:00 - 19:30 - First talk
+19:30 - 19:45 - Small break
+19:45 - 20:30 - Eric Holscher
+20:30 - 21:00 - Networking
 21:00 - closing time
 
 .. Links
