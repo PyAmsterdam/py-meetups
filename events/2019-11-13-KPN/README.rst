@@ -29,10 +29,15 @@ Schedule
 Wednesday, 13 November 2019
 
 18:00 - 19:00 - Welcome with drinks and food
+
 19:00 - 19:30 - First talk
+
 19:30 - 19:45 - Small break
+
 19:45 - 20:30 - Eric Holscher
+
 20:30 - 21:00 - Networking
+
 21:00 - closing time
 
 .. Links
