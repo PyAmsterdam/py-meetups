@@ -14,6 +14,7 @@ This time we are glad to have a special guest: The co-founder of `Read the Docs`
 .. image:: /resources/images/ericholscher.png
 
 
+.. IMPORTANT::
 We are currently looking for talks and speakers. The call for proposals will be open until October 31.
 
 To submit a talk you can:
