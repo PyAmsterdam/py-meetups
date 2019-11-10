@@ -34,7 +34,7 @@ Wednesday, 13 November 2019
 
 18:00 - 19:00 - Welcome with drinks and food
 
-19:00 - 19:30 - First talk
+19:00 - 19:30 - Python decorators 101 - Denis Kovalev
 
 19:30 - 19:45 - Small break
 
