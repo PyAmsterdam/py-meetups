@@ -25,6 +25,7 @@ You can contribute to our cause by:
 * Providing us with space where we can gather and talk about python
 * Submitting a topic you'd like to hear about or try hands on
 
+Join our slack: http://bit.ly/join-pyamsterdam-slack
 
 Our organisation structure is very simple
 
