@@ -1,26 +1,33 @@
 Path("Brookz/PyAmsterdam meetup")
 =================================
 
+This is the first PyAmsterdam meetup of 2020 together kindly hosted by Brookz_.
 No time to hesitate and get back together with your python friends again!
 
-First PyAmsterdam meetup of 2020 together with Brookz_.
+Did learn about something cool, want to share what you have created  or
+simply share the struggle with your current project?
+NOW is the time!
+We would like to include some lightning talks (5min talk) to this event.
+You do not need any slides or laptop (though it helps). Just sing up at the event!
 
 
 About Brookz
 ----------------
 
-<TODO>
+Brookz is the largest acquisition and financing platform in the Netherlands
+which is 100% independent and since 2007 brings entrepreneurs, investors,
+financiers and advisors in direct contact with each other.
 
 Schedule
 ------------------------
 Thursday, 13 February 2020, 18:00
 
 18:00 Welcome
-18:30 First talk <TBA>
-19:00 Second talk, <TBA>
+18:30 First talk: Python in digital humanities research
+19:00 Second talk: Dependency injection in Python
 19:30 Small break
-19:40 <TBA>
-20:10 Networking / lightning talks
+19:40 Lightning talks?
+20:10 Networking
 21:00 Closing time
 
 Python in digital humanities research
@@ -61,15 +68,20 @@ I will finish with a brief explanation of the difficulty of navigating the two w
 the digital world of developers and the paper world of the Humanities and give some pointers
 how you as developers could be part of this discussion.
 
-<TBA>
+Dependency injection in Python
 ----------------------------
 
-About <TBA>:
+About `Corstiaan Hesselink`_: <more info to come>
 
-<TBA>
-----------------------------
+<more info to come>
 
-About <TBA>:
+Abstract
+~~~~~~~~
+
+<more info to come>
+
+.. links
 
 .. _Brookz: https://www.brookz.nl
+.. _Corstiaan Hesselink: https://www.linkedin.com/in/corstiaanhesselink/
 .. _Cornelis van Lit: http://lwcvl.com
