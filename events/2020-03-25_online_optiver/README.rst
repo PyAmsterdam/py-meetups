@@ -50,7 +50,9 @@ How to be Pythonic? Design a Query Language in Python
 We created Python API calls that let you can make queries and manipulate data in our graph database. We thought about what will be best for Pythonistas? What will be the most Pythonic way to do it? (Is it a thing?) Here’s our journey in making WOQLpy and we want to make it useful to you.
 
 After having a career in data science, Cheuk now brings her knowledge in data and passion for the tech community into TerminusDB as the developer relations lead. Cheuk constantly contributes to the open-source community by giving AI and deep learning workshops and organize sprints to encourage diversity contributions.
+
 https://twitter.com/cheukting_ho
+
 https://cheuk.dev/
 
 
@@ -62,5 +64,7 @@ Naomi Ceder earned a Ph.D in Classics several decades ago, but switched from anc
 An elected fellow of the Python Software Foundation, Naomi currently serves as chair of its board of directors. She also speaks internationally about the Python community, and on inclusion and diversity in technology in general.
 
 By day she leads a team of Python programmers for Dick Blick Art Materials, and in her spare time she enjoys sketching, knitting, and deep philosophical conversations with her dog.
+
 https://twitter.com/NaomiCeder
+
 https://www.naomiceder.tech/
